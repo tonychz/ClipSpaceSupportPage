@@ -1,2 +1,2 @@
-# ClipSpaceSupportPage
+# Clipboard SpaceSupportPage
 Support/Dev Page
